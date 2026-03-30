@@ -60,7 +60,7 @@ I focus on integrating AI into analytics to:
 
 ## 📈 Currently Growing  
 
-- Advanced SQL & real-world case solving  
+-  real-world case solving with tools like SQL, Power BI , python   
 - AI-powered analytics projects  
 - Building a strong data portfolio  
 
