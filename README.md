@@ -41,12 +41,12 @@ AI-powered tool that analyzes online customer reviews and calculates **Brand Hea
 
 ## 🛠️ Skills  
 
-Data Analysis: EDA, Data Cleaning, Feature Engineering, KPI Analysis  
-Programming: Python (Pandas, NumPy), SQL (Joins, Aggregations, Subqueries)  
-Visualization: Power BI, Tableau, Matplotlib, Seaborn  
-Tools: Excel, PostgreSQL, Power Query, Pentaho  
-Statistics: Hypothesis Testing, A/B Testing  
-Soft Skills: Problem-Solving, Critical Thinking, Communication  
+Experience in data analysis including EDA, data cleaning, and KPI analysis  
+Proficient in Python (Pandas, NumPy) and SQL for data handling  and querying  
+Skilled in visualization using Power BI, Tableau, Matplotlib, and Seaborn  
+Familiar with tools like Excel, PostgreSQL, Power Query, and Pentaho  
+Knowledge of hypothesis testing and A/B testing  
+Strong problem-solving, critical thinking, and communication skills  
 ---
 
 ## 🤖 AI in Analytics  
